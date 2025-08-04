@@ -1,0 +1,324 @@
+
+{
+  "nav": {
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact",
+    "quick_reservation": "Consultation",
+    "home": "Home"
+  },
+  "hero": {
+    "subtitle": "Your Journey, Redefined",
+    "title": "The Bespoke Route",
+    "description": "A singular journey. A luxury tour designed exclusively for you.",
+    "button_explore": "Explore Services",
+    "button_contact": "Book a Consultation"
+  },
+  "brand_intro": {
+    "title": "We design your time and taste, beyond the journey",
+    "description": "The Bespoke Route is not just a travel agency. We enable you to experience value beyond what is visible, fitting for your stature.",
+    "features": [
+      "Safety",
+      "Prestige",
+      "Network",
+      "Cuisine",
+      "Art"
+    ]
+  },
+  "why_choose_us": {
+    "title": "Why Choose The Bespoke Route?",
+    "subtitle": "We don't just plan trips; we craft legacies. Our commitment to excellence is absolute, and our network is unparalleled.",
+    "points": [
+      {
+        "icon": "ShieldCheck",
+        "title": "Uncompromising Security",
+        "description": "Your safety is our paramount concern. We operate with the highest level of discretion and provide 24/7 security detail to ensure your peace of mind."
+      },
+      {
+        "icon": "KeyRound",
+        "title": "Unrivaled Access",
+        "description": "Leverage our deep-rooted connections. We open doors to exclusive events, private audiences, and opportunities unavailable to the public."
+      },
+      {
+        "icon": "Gem",
+        "title": "Meticulous Execution",
+        "description": "From grand gestures to the smallest details, every aspect of your journey is flawlessly orchestrated by our team of dedicated experts."
+      }
+    ]
+  },
+  "services_section": {
+    "title": "Core Services",
+    "subtitle": "We meticulously manage every detail to ensure a flawless experience."
+  },
+  "detailed_services": {
+    "immigration": {
+      "title": "Express Immigration Service",
+      "description": "Experience VIP airport service that's convenient and worry-free. Our special entrance ensures quick, easy immigration without waiting. An expert guide will assist you through to baggage claim. We provide a comfortable and relaxing immigration experience, free from complex procedures."
+    },
+    "transportation": {
+      "title": "Premium Transportation Service",
+      "description": "Your journey will be even more special from start to finish. We offer a wide selection of premium transportation services, including helicopters and yachts, designed to meet your needs and schedule. From helicopter transfers for quick city travel to scenic yacht services along the Haein Line, and even private car services, we ensure seamless travel connections. All our transportation services undergo thorough safety checks and management, operated by professional managers for your utmost comfort."
+    },
+    "security": {
+      "title": "Local Security Personnel for Safe Travel",
+      "description": "We guarantee your complete safety by remaining unnoticed. Professional security personnel in plain clothes will discreetly protect you from threats and proactively eliminate potential dangers through pre-screening before reaching your destination. We ensure a peaceful and private journey, free from external interference."
+    },
+    "secretary": {
+      "title": "Secretary Service for Every Station and Hall",
+      "description": "We guarantee that no obstacle will impede your journey. We provide real-time secretarial support throughout your trip, covering travel, meetings, and hospital consultations. We also offer dedicated secretarial services for schedule management, bookings, and document preparation."
+    },
+    "dining": {
+      "title": "Exclusive Dining Experience",
+      "description": "We offer an exclusive dining experience tailored specifically for you. We provide personalized service from renowned Thai and international chefs, serving traditional Thai spirits and herbal liquors. We offer restaurant reservation services and food and beverage pairing. Even popular restaurants can be booked according to your schedule, allowing you to skip the queues."
+    },
+    "culture": {
+      "title": "Culture and Art Appreciation Program",
+      "description": "Art will quietly come to you. We provide exclusive access to exhibitions and museums not open to the general public. Curators will personally guide you through the artworks and introduce you to the artists."
+    },
+    "business": {
+      "title": "Business Support",
+      "description": "We provide cutting-edge connections. We arrange private dinners with high-level government and business leaders. We conduct due diligence on potential local areas and properties."
+    },
+    "medical": {
+      "title": "Private Medical and Treatment Programs",
+      "description": "Experience peaceful rejuvenation and quiet healing. We offer confidential appointments and escorts at hospitals, and provide comprehensive care services, including health check-ups, rehabilitation programs, and spa services."
+    },
+    "gifting": {
+      "title": "Customized Travel Gift Creation Service",
+      "description": "We will complete your precious journey with impressive gifts. We have a carefully selected range of popular local products. We will customize the quantity and components to your needs, package the items in specially designed packaging, and deliver them directly to your country or domestically."
+    }
+  },
+  "possibilities": {
+    "brand": "The Bespoke Route",
+    "title": "Endless possibilities.",
+    "subtitle": "Don't worry about \"what's possible\" – just tell us \"what you want.\""
+  },
+  "about_page": {
+    "title": "Our Philosophy",
+    "subtitle": "We believe true luxury lies not just in opulence, but in flawless execution, unparalleled access, and the creation of genuinely unique, unforgettable moments.",
+    "genesis_title": "The Genesis of TBR",
+    "genesis_p1": "The Bespoke Route was born from a simple observation: while Thailand is a world-class destination, its most extraordinary experiences remain hidden, accessible only to a select few. We saw the need for a service that could bridge this gap for discerning global travelers.",
+    "genesis_p2": "With deep-rooted connections in both business and government, our local founders envisioned a company that could unlock the true potential of Thailand—not just its beautiful beaches and temples, but its exclusive opportunities, personal encounters, and seamless efficiency that money alone cannot buy. TBR is the realization of that vision, your key to a kingdom of unrivaled luxury.",
+    "value_exclusivity_title": "Exclusivity",
+    "value_exclusivity_desc": "We provide access to people, places, and opportunities that are not available to the general public.",
+    "value_precision_title": "Precision",
+    "value_precision_desc": "Every detail of your journey is meticulously planned and flawlessly executed by our team of experts.",
+    "value_discretion_title": "Discretion",
+    "value_discretion_desc": "We prioritize our clients' privacy and safety, operating with the utmost discretion to ensure a seamless and worry-free experience."
+  },
+  "contact_page": {
+    "title": "Get in Touch",
+    "subtitle": "Contact our specialists to begin your bespoke journey. We operate with the utmost discretion and look forward to understanding your unique requirements.",
+    "form_title": "Send an Inquiry",
+    "form_name": "Your Name",
+    "form_email": "Your Email",
+    "form_message": "Your Message",
+    "form_send": "Send Message",
+    "info_title": "Contact Information",
+    "info_email": "Email",
+    "info_phone": "Phone",
+    "info_based_in": "Based In",
+    "info_based_in_city": "Bangkok, Thailand"
+  },
+  "footer": {
+    "about": "TBR is the premier, invitation-only service for bespoke luxury experiences in Thailand.",
+    "sitemap": "Sitemap",
+    "legal": "Legal",
+    "social": "Social",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "quick_reservation": "Service - Quick Reservation",
+    "copyright": "© 2025 The Bespoke Route. All Rights Reserved."
+  },
+  "services": {
+    "seamless_arrival": {
+      "title": "Transform Travel Discomfort into Comfort",
+      "description": "From exclusive gate access to expedited customs, we redefine your arrival experience.",
+      "imgAlt": "Travelers walking through a modern, sunlit airport terminal with a view of an airplane on the tarmac.",
+      "details": {
+        "breakdown": [
+          { "name": "Exclusive Gate Access", "benefit": "Bypass the crowds and expedite your passage with VIP-only gates." },
+          { "name": "Fast-Track Customs & Immigration", "benefit": "A dedicated concierge assists you from arrival to baggage claim." },
+          { "name": "Inter-City Helicopter Transfers", "benefit": "Minimize unnecessary travel time and enjoy breathtaking aerial views." }
+        ],
+        "testimonials": [
+          { "quote": "The airport experience was flawless. I was at my hotel within 30 minutes of landing. Unheard of!", "author": "A. Volkov" },
+          { "quote": "TBR turned a stressful travel day into a moment of pure luxury. The helicopter transfer was breathtaking.", "author": "S. Chen" }
+        ]
+      }
+    },
+    "elite_business": {
+      "title": "Business Exchange",
+      "description": "Connect with high-level officials and entrepreneurs through our curated business services.",
+      "imgAlt": "A group of business professionals networking in a bright, modern atrium filled with lush greenery.",
+      "details": {
+        "breakdown": [
+          { "name": "High-Level Meeting Arrangements", "benefit": "Private dinners with government officials and business leaders." },
+          { "name": "Customized Investment Tour Planning", "benefit": "Ideal for business-focused tours, including site visits for real estate and investment." },
+          { "name": "Secure & Private Venues", "benefit": "Meet with local influential figures and entrepreneurs in private meeting rooms." }
+        ],
+        "testimonials": [
+          { "quote": "The access TBR provided was instrumental for our expansion in Asia. The meetings were perfectly matched.", "author": "E. Rostova" },
+          { "quote": "We accomplished in 3 days what would have taken us 6 months. An invaluable service.", "author": "J. Al-Fayed" }
+        ]
+      }
+    },
+    "honeymoons": {
+      "title": "Your Perfect Honeymoon",
+      "description": "Experience romance and luxury with private villas, exclusive dining, and curated adventures.",
+      "imgAlt": "A couple walking hand-in-hand on a beautiful sandy beach in Thailand, with large limestone karsts in the background.",
+      "details": {
+        "breakdown": [
+          { "name": "Private Villa & Yacht Stays", "benefit": "We provide top-tier local accommodations that meet VIP demands, beyond famous hotels." },
+          { "name": "Exclusive Dining with Personal Chefs", "benefit": "Celebrate special moments with extraordinary cuisine. Michelin-starred chefs prepare dinners exclusively for VIPs." },
+          { "name": "Customized Couple's Adventures", "benefit": "From relaxing spa retreats to private jungle treks, every detail is curated for you." }
+        ],
+        "testimonials": [
+          { "quote": "Our honeymoon was pure magic. Every detail was so personal and romantic. We couldn't have asked for more.", "author": "The Carters" },
+          { "quote": "TBR created a seamless, stress-free, and utterly beautiful experience for us. The perfect start to our marriage.", "author": "L. & H. Schmidt" }
+        ]
+      }
+    },
+    "bespoke_journeys": {
+      "title": "A-to-Z Custom Tour for You",
+      "description": "Your entire journey, from cultural immersion to seamless transport, tailored to your every desire.",
+      "imgAlt": "A traditional Thai long-tail boat floating on crystal-clear turquoise water in a stunning bay surrounded by cliffs.",
+      "details": {
+        "breakdown": [
+          { "name": "Dedicated Tour Coordinator", "benefit": "An expert who plans every moment of the journey to suit the VIP's taste." },
+          { "name": "Cultural & Artistic Immersion Programs", "benefit": "Privately view exhibitions and art museums not open to the general public." },
+          { "name": "Seamless Transportation", "benefit": "We provide private cars, helicopters, and yachts to ensure free movement anywhere, be it cities, islands, or resorts." }
+        ],
+        "testimonials": [
+          { "quote": "This wasn't a vacation; it was a life experience. TBR understood my vision perfectly and executed beyond my wildest dreams.", "author": "K. Anderson" },
+          { "quote": "The level of personalization is astounding. It felt like Thailand was opened up just for us.", "author": "Lord Ashworth" }
+        ]
+      }
+    }
+  },
+  "modals": {
+    "more_details": "More Details",
+    "quick_booking": "Quick Booking",
+    "service_details": "Service Details",
+    "benefits": "Benefits",
+    "testimonials": "Testimonials",
+    "close": "Close",
+    "book_service": "Book This Service",
+    "your_name": "Your Name",
+    "your_email": "Your Email",
+    "passengers": "Number of Passengers",
+    "booking_form_title": "Quick Booking:",
+    "booking_form_desc": "Please provide the details for your service request. Our team will be in touch to confirm.",
+    "date_time": "Preferred Date/Time",
+    "flight_details": "Flight Details (e.g., EK384)",
+    "business_objectives": "Business Objectives",
+    "honeymoon_preferences": "Honeymoon Preferences",
+    "journey_ideas": "Initial Journey Ideas",
+    "specific_requests": "Specific Requests",
+    "additional_details": "Additional Details",
+    "submit_booking": "Submit Booking Request"
+  },
+  "home_page": {
+    "consultation_cta_title": "Your Journey Begins Here",
+    "consultation_cta_desc": "Join an exclusive group of discerning travelers who demand nothing less than perfection. Your bespoke Thai adventure awaits.",
+    "consultation_cta_button": "Request a Consultation",
+    "signature_journeys_title": "Signature Journeys",
+    "signature_journeys_subtitle": "Curated experiences that showcase the pinnacle of luxury travel. Click to explore the details."
+  },
+  "quick_inquiry": {
+    "title": "Quick Inquiry: VIP Custom Tour",
+    "travel_dates": "Desired Travel Dates (Arrival & Return)",
+    "initial_requests": "Initial Tour Interests / Requests",
+    "cta": "Continue to Custom Tour Form"
+  },
+  "consultation_form": {
+    "title": "VIP Custom Tour Pre-Information Form",
+    "subtitle": "To design your perfect journey, please provide the following information. This ensures a safe, comfortable, and truly personalized experience.",
+    "section_basic": "1. Basic Information",
+    "name_passport": "Name (as on passport):",
+    "dob": "Date of Birth:",
+    "nationality": "Nationality:",
+    "passport_number": "Passport Number (Optional):",
+    "phone_kakaotalk": "Phone Number / KakaoTalk:",
+    "accompanying_travelers": "Accompanying Travelers (Name/Age/Relationship):",
+    "section_health": "2. Health Status & Medical Information",
+    "health_check_intro": "Please check all applicable conditions below:",
+    "health_conditions": {
+      "high_blood_pressure": "High Blood Pressure",
+      "heart_disease": "Heart Disease",
+      "diabetes": "Diabetes",
+      "asthma": "Asthma",
+      "disc_issues": "Disc Issues",
+      "acrophobia": "Acrophobia",
+      "claustrophobia": "Claustrophobia",
+      "motion_sickness": "Motion Sickness",
+      "mental_health": "Mental Health Conditions",
+      "other": "Other"
+    },
+    "health_special_attention": "If any of the above require special attention during the trip, please specify:",
+    "current_medications": "Are you currently taking any medications? (Medication name and dosage/method):",
+    "emergency_contact": "Emergency Contact Person (Name / Relationship / Contact Number):",
+    "section_diet": "3. Allergies & Dietary Information",
+    "food_allergies": {
+      "label": "Food Allergies:",
+      "specify": "If Yes, please specify"
+    },
+    "animal_allergies": {
+      "label": "Animal Allergies:",
+      "specify": "If Yes, please specify"
+    },
+    "preferred_diet": "Preferred Diet (Standard / Vegetarian / Vegan / Other):",
+    "diets": {
+      "standard": "Standard",
+      "vegetarian": "Vegetarian",
+      "vegan": "Vegan",
+      "other": "Other"
+    },
+    "avoid_foods": "Are there any foods or ingredients you wish to avoid?",
+    "alcohol": "Alcohol Consumption (Yes/No) and Preferred Alcoholic Beverages:",
+    "section_transport": "4. Transportation Preferences & Limitations",
+    "transport_ability": "Are you able to take any of the following? Please specify any limitations or preferences for: Helicopter / Yacht / Small Plane / Gondola / Other:",
+    "long_distance_pref": "Preferred mode of long-distance travel: Airplane / High-Speed Rail / Car / Other:",
+    "transport_discomfort": "Please let us know if you experience motion sickness or discomfort with any specific modes of transportation:",
+    "section_style": "5. Travel Style & Preferences",
+    "travel_style": "Preferred Travel Style (Relaxation / Activities / Shopping / Healing / Business):",
+    "travel_styles": {
+      "relaxation": "Relaxation",
+      "activities": "Activities",
+      "shopping": "Shopping",
+      "healing": "Healing / Wellness",
+      "business": "Business",
+      "other": "Other"
+    },
+    "specific_activities": "Are there any specific activities or tours you'd like to try?",
+    "avoid_activities": "Are there any activities or situations you'd like to avoid?",
+    "special_anniversary": "Please inform us if there's any special anniversary to celebrate during your trip:",
+    "section_accommodation": "6. Accommodation & Room Information",
+    "accommodation_type": "Preferred Accommodation Type (Pool Villa / Resort / City Hotel / etc.):",
+    "accommodation_types": {
+        "pool_villa": "Pool Villa",
+        "resort": "Resort",
+        "city_hotel": "City Hotel",
+        "boutique_hotel": "Boutique Hotel",
+        "other": "Other"
+    },
+    "bed_config": "Bed Configuration (King / Double / Twin / Single):",
+    "bed_configs": {
+        "king": "King",
+        "double": "Double",
+        "twin": "Twin",
+        "single": "Single"
+    },
+    "additional_services": "Additional Services you would like to be provided:",
+    "section_additional": "7. Please feel free to write down any additional requests or notes you wish to convey:",
+    "submit_button": "Submit Detailed Request",
+    "yes": "Yes",
+    "no": "No",
+    "pick_a_date": "Pick a date"
+  },
+  "success_modal": {
+    "title": "Request Sent Successfully!",
+    "message": "Our team of experts will be in touch with you shortly. Your extraordinary journey is about to begin!",
+    "button": "Confirm"
+  }
+}
